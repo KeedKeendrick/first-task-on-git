@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(155, 146, 146);
+
+}
+
+h1{
+    text-align: center;
+    color: black;
+    
+}
+p{
+    text-align: center;
+    color: black;
+    
+     
+}
+button{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 550px;
+    background-color: rgb(163, 156, 156);
+    width: auto;
+    height: auto;
+
+color: blue;
+
+}
+    
+input{
+    background-color: blue;
+    margin-left: 570px;
+}
+

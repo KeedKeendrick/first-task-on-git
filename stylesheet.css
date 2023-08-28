@@ -1,3 +1,37 @@
-body{
-    background-color: purple;
+table{
+    border-collapse: collapse;
+    background-color: white;
+    border:none solid white;
+    padding: 0px;
+    margin: 0px;
+    }
+th{
+    border-collapse: collapse;
+    background-color: red;
+    color: white;
+    text-align: left;
+    padding-right: 50px;
+    padding-left: 50px;
 }
+td{
+    border-collapse: collapse;
+    text-align: left;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+body{
+    background-color: black;
+}
+table tr:nth-child(odd){
+    background-color: gray;
+}
+
+table{
+    border-collapse: collapse;
+    background-color: white;
+    border:none solid white;
+    padding: 0px;
+    margin: 0px;    
+}
+
+
